@@ -22,7 +22,7 @@
 9. [Stable Diffusion扩展安装](https://www.yuque.com/a-chao/sd/qmh02ek9t5qc2gqf)
 10. [Stable Diffusion图片高清放大](https://www.yuque.com/a-chao/sd/cb52x1okxv0v9cid)
 11. [PS安装AI绘画插件教程](https://www.yuque.com/a-chao/sd/qq03lrsiq69zco95)
-12. [X/Y/Z 图表](X/Y/Z 图表)
+12. [X/Y/Z 图表](https://www.yuque.com/a-chao/sd/khcu7iypenc13vo9)
 13. [Stable diffusion 提示词汉化](https://www.yuque.com/a-chao/sd/wdgmn4313fdndfu0)
 14. [SegmentAnything一键抠图与重绘](https://www.yuque.com/a-chao/sd/hmo0hfx7kyyu08y9)
 15. ControlNet专题
