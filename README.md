@@ -3,7 +3,7 @@
 
 大纲如下：
 
-![Stable Diffusion知识大纲.png](https://raw.githubusercontent.com/ai-vip/stable-diffusion-tutorial/main/Stable Diffusion知识大纲.png)
+![Stable Diffusion知识大纲.png](https://raw.githubusercontent.com/ai-vip/stable-diffusion-tutorial/main/Stable%20Diffusion%E7%9F%A5%E8%AF%86%E5%A4%A7%E7%BA%B2.png)
 
 
 
