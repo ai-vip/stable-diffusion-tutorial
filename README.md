@@ -3,7 +3,7 @@
 
 大纲如下：
 
-![Stable Diffusion知识大纲.png](Stable Diffusion知识大纲.png)
+![Stable Diffusion知识大纲.png](./Stable Diffusion知识大纲.png)
 
 
 
